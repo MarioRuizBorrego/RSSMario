@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Primer feed RSS</title>
+        <link>https://cincodias.elpais.com/noticias/sistemas-operativos/</link>
+        <language>es-ES</language>
+        <description>contiene múltiples noticias de diferentes temas,
+         pero yo me he centrado sobre los Sistemas Operativos para hacer
+          referencia hacia mi asignatura de Implantación a los Sistemas
+           Operativos.</description>
+
+        <ttl>1</ttl>
+        <lastBuildDate>Thu, 11 Jan 2024 13:15:50 +0000</lastBuildDate>
+        <item>
+            <title>SORPRESA EN WINDOWS 12: PODRÍA SER UNA ACTUALIZACIÓN Y NO UNA NUEVA VERSIÓN</title>
+            <link>https://cincodias.elpais.com/cincodias/2024/01/09/lifestyle/1704795778_109749.html</link>
+            <description>X-plore File Manager, un explorador de archivos imprescindible, Send files to TV, AerialViews, el mejor salvapantallas para Android</description>
+            <category>noticias</category>
+            <pubDate>Thu, 11 Jan 2024 11:30:03 +0000</pubDate>
+            
+        </item>
+        <item>
+           <title>ESTA ES LA MEJOR ALTERNATIVA AL BLOC DE NOTAS EN WINDOWS</title>
+            <link>https://cincodias.elpais.com/cincodias/2023/09/11/lifestyle/1694432036_805141.html</link>
+            <description>Notepad++ es un editor de texto y de código fuente gratuito y de código abierto que fue desarrollado en 2003. 
+            Desde entonces, esta herramienta no ha parado de crecer para convertirse en la mejor alternativa al Bloc de notas de Windows</description>
+            <category>noticias</category>
+            <pubDate>Thu, 11 Jan 2024 12:40:12 +0000</pubDate>
+        </item>
+        <item>
+            <title>ANDROID AUTO PERMITIRÁ HACER VIDEOLLAMADAS A TRAVÉS DE MICROSOFT TEAMS</title>
+            <link>https://cincodias.elpais.com/cincodias/2024/01/08/lifestyle/1704716755_193264.html</link>
+            <description>Android Auto es uno de los asistentes a la conducción más completos que hay. Además, el gigante con sede en Mountain View no 
+            para de lanzar nuevas actualizaciones con las que mejorar esta aplicación.</description>
+            <category>noticias</category>
+            <pubDate>Thu, 11 Jan 2024 12:42:46 +0000</pubDate>
+        </item>
+        <item>
+            <title>COMO EVITAR QUE EXTRAÑOS PUEDAN UTILIZAR TU ORDENADOR CON WINDOWS 11</title>
+            <link>https://cincodias.elpais.com/cincodias/2023/07/26/lifestyle/1690382258_607730.html</link>
+            <description>Cómo proteger tu ordenador con Windows de intrusos</description>
+            <category>noticias</category>
+            <pubDate>Thu, 11 Jan 2024 13:51:14 +0000</pubDate>
+        </item>
+        <item>
+            <title>3 APLICACIONES QUE NO DEBEN FALTAR AL COMPRAR UN TELEVISOR CON ANDROID TV</title>
+            <link>https://cincodias.elpais.com/cincodias/2023/07/14/smarttv/1689317371_713396.html</link>
+            <description>Apps imprescindibles en Android TV</description>
+            <category>noticias</category>
+            <pubDate>Thu, 11 Jan 2024 13:57:12 +0000</pubDate>
+        </item>
+    </channel>
+</rss>
